@@ -8,3 +8,6 @@ trojan://28d8ef80-bebb-11ef-ad85-1239d0255272@sg3-trojan.bonds.id:443/signal.org
 trojan://d7003a00-bebe-11ef-af8e-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedvpns-1
 trojan://f2e6df40-bebe-11ef-9633-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedvpns-2
 trojan://fb3572e0-bebe-11ef-9680-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedvpns-3
+trojan://5bc5c230-bedc-11ef-ad63-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#FR-hamedp71-1
+trojan://56248c00-bedc-11ef-bee7-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net##USA-hamedp71-1
+trojan://4deb3990-bedc-11ef-b5ad-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#UK-hamedp71-1
