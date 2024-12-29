@@ -1,3 +1,12 @@
+//profile-title: base64:2K7Yr9mF2KfYqtuM4oCMINit2KfZhdivIOKdpPCfpI3wn5KaIGhhbWVkcDcx
+//profile-update-interval: 1
+//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
+#profile-web-page-url: @hamedvpns
+
+trojan://d6397360-c5c5-11ef-bba7-1239d0255272@fr1.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇲🇫-hamedp71
+trojan://d3af62b0-c5c5-11ef-8085-1239d0255272@uk1.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇬🇧-hamedp71
+trojan://d0134360-c5c5-11ef-95bf-1239d0255272@usa.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇺🇲-hamedp71
+
 trojan://3a84c450-c108-11ef-a751-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#انگلیس-2
 trojan://382c47e0-c108-11ef-85f7-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#فرانسه-2
 trojan://3620ff00-c108-11ef-aa62-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#آمریکا-2
@@ -7,30 +16,21 @@ trojan://233f7820-bfe3-11ef-a002-1239d0255272@sg-4.test3.net:443/time.is?sni=tim
 trojan://29f57ba0-bfe3-11ef-b64a-1239d0255272@uk1.test3.net:443/time.is?sni=time.is#انگلیس-1
 trojan://30d08890-bfe3-11ef-81f8-1239d0255272@usa.test3.net:443/time.is?sni=time.is#آمریکا-1
 
-trojan://1f1b9420-bfe3-11ef-9f4f-1239d0255272@time.is:443/?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#فرانسه-1
-trojan://233f7820-bfe3-11ef-a002-1239d0255272@time.is:443/?sni=sg-4.test3.net&type=ws&host=sg-4.test3.net&path=%2Fhowdy#سنگاپور-1
-trojan://29f57ba0-bfe3-11ef-b64a-1239d0255272@time.is:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#انگلیس-1
-trojan://30d08890-bfe3-11ef-81f8-1239d0255272@time.is:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#آمریکا-1
-
 trojan://dec486d0-beb5-11ef-89fe-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#فرانسه
 trojan://f757f650-beb5-11ef-872a-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#آمریکا
 trojan://033d4e70-beb6-11ef-8e65-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#انگلیس
+
 trojan://d7003a00-bebe-11ef-af8e-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#آمریکا1
 trojan://f2e6df40-bebe-11ef-9633-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#انگلیس1
 trojan://fb3572e0-bebe-11ef-9680-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#فرانسه1
+
 trojan://5bc5c230-bedc-11ef-ad63-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#فرانسه2
 trojan://56248c00-bedc-11ef-bee7-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#آمریکا2
 trojan://4deb3990-bedc-11ef-b5ad-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#انگلیس2
+
 trojan://54bcbc10-bedf-11ef-967a-1239d0255272@fr1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#فرانسه3
 trojan://4beee2d0-bedf-11ef-88db-1239d0255272@usa.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#آمریکا3
 trojan://45524300-bedf-11ef-b912-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس3
-trojan://bb24e7d0-bf79-11ef-bb20-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#فرانسه-hamedp71
-trojan://eb177a40-bf79-11ef-8251-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس-hamedp71
+
 trojan://ef3aaff0-bf79-11ef-98e0-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#آمریکا-hamedp71
 trojan://a2ec9930-bf7b-11ef-b79c-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#آمریکا-hamedp71-1
-trojan://9a63c890-bf7b-11ef-b1a7-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس-hamedp71-1
-trojan://97004af0-bf7b-11ef-8400-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#فرانسه-hamedp71-1
-trojan://0c3a3f00-beb6-11ef-950d-1239d0255272@sg3-trojan.bonds.id:443/lb-182-252.above.com?sni=lb-182-252.above.com#سنگاپور1
-trojan://585864c0-beb6-11ef-a354-1239d0255272@sg2-trojan.bonds.id:443/vodafone.com.tr?sni=vodafone.com.tr#سنگاپور2
-trojan://28d8ef80-bebb-11ef-ad85-1239d0255272@sg3-trojan.bonds.id:443/signal.org.tr?sni=signal.org.tr#سنگاپور3
-trojan://eababb00-beb5-11ef-ab7e-1239d0255272@sg-4.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#سنگاپور
